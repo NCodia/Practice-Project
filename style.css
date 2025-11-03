@@ -5,8 +5,6 @@
 
 body{
     background-color: rgb(110, 29, 5);
-    /* height: 100%;
-    width: 100%; */
 }
 
 
@@ -59,7 +57,4 @@ nav{
     margin: 40px;
     padding: 10px;
     text-align: center;
-    sh
-    /* width: 399px;
-    height: 304px; */
 }
