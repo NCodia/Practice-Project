@@ -51,10 +51,21 @@ nav{
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 22px;
 }
 
 .img img{
-    margin: 40px;
-    padding: 10px;
+    /* margin: 40px; */
+    /* padding: 10;px */
     text-align: center;
+}
+
+.img img:hover{
+    
+    box-shadow: 4px 4px 4px grey;
+}
+
+.pic-4{
+    width: 400px;
+    height: 200px;
 }
